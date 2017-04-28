@@ -3,6 +3,7 @@
 
 ## Some Examples
 
+* functions in OO languages that don't have functions
 * inline to function
 * simple loops (eg. list of order IDs to the order values)
 * stateful loops (eg. list of order values to sum or highest value order)
