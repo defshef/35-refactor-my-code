@@ -12,4 +12,6 @@
 * capturing context with partial application
 * composing functions
 * changing things in an immutable world
+* memoization
+* mutability as an optimisation
 * more?
